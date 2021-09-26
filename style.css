@@ -1,7 +1,7 @@
 .col-top{
     
     background-color: grey;
-    height: 400px;
+    
 }
 
 .col-down{
@@ -9,4 +9,7 @@
     
     background-color: cadetblue;
 }
-
+.career{
+    padding: 90px;
+    
+}
